@@ -18,9 +18,9 @@ from util_metric.map_eval import eval_mito
 from util_metric.metrics import dice_coeff
 
 
-model_state_file = "patch_model_v2.pth"
-config_path = "./mysetting.yaml"
-ckps = 'seed_model_v4.7.pth'
+model_state_file = "/trained_model/patch_model_v2.pth"
+config_path = " "
+ckps = '/trained_model/seed_model_v4.7.pth'
  
 def load_nii(path):
     print(path.split("/")[-1], "loaded!")
