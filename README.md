@@ -38,8 +38,8 @@ python train.py
 ```
 
 ## Inference on a 3D block
-We provide our trained models including the localization network and segmentation network in the fold './trained_model'.
-If you want to test the model on a small block, you can implement this command
+We provide our trained models, including the localization network and the segmentation network in the fold './trained_model'.
+If you want to test the model on a small block, you can implement the following command
 ```shell
 python inference.py
 ```
