@@ -37,7 +37,7 @@ def save_nii(img,path):
 
 
 if __name__ == "__main__":
-    root_path_positive = '/braindat/lab/liuxy/soma_seg/Block_level_experiments/CellBody_raw/TestSet/test_erode'
+    root_path_positive = ' '
 
     f_all = open('./scores.txt', 'w')
     thres = 0.97
