@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@192.168.9.160:10281">
+    <serverData>
+      <paths name="root">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/braindat/lab/hubo/CODE/cellseg_hubo" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@192.168.9.160:10281">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/braindat/lab/hubo/CODE/cellseg_hubo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

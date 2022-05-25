@@ -1,0 +1,20 @@
+[2022-04-04 15:19:09,599] [INFO]: 
+##############
+batch:                   4
+gpu_nums:                4
+epochs:                  500
+lr:                      0.0005
+lr_patience:             50
+network:                 UNet3D()
+loss_type:               BCE_loss
+data_dir:                /braindat/lab/liuxy/soma_seg/Block_level_experiments/block_seg_v8_2000
+logs_dir:                ./logs
+ckps_dir:                ./ckps
+resample:                (0.5, 1, 1)
+weight_rate:             [1, 10]
+resume:                  False
+resume_path:             None
+tolerate_shape:          (62, 459, 459)
+##############
+[2022-04-04 15:19:09,784] [INFO]: Available Devices: [0, 1, 2, 3]
+[2022-04-04 15:19:14,220] [INFO]: Start a new training!

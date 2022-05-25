@@ -1,0 +1,19 @@
+{
+    "jobName": "json",
+    "image": "bit:5000/limx_py36_torch1.1_cuda9",
+    "gpuType": "titanxp",
+    "retryCount": 0,
+    "taskRoles": [
+        {
+            "name": "josn",
+            "taskNumber": 1,
+            "cpuNumber": 4,
+            "memoryMB": 32000,
+            "shmMB": 10240,
+            "gpuNumber": 1,
+            "minFailedTaskCount": null,
+            "minSucceededTaskCount": null,
+            "command": "sleep 4d"
+        }
+    ]
+}

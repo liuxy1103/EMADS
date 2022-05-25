@@ -1,0 +1,19 @@
+{
+    "jobName": "json",
+    "image": "registry.cn-hangzhou.aliyuncs.com/renwu527/auto-emseg:v3.1",
+    "gpuType": "titanxp",
+    "retryCount": 0,
+    "taskRoles": [
+        {
+            "name": "josn",
+            "taskNumber": 1,
+            "cpuNumber": 10,
+            "memoryMB": 53248,
+            "shmMB": 20480,
+            "gpuNumber": 0,
+            "minFailedTaskCount": null,
+            "minSucceededTaskCount": null,
+            "command": "sleep 4d"
+        }
+    ]
+}

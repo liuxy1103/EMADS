@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="192.168.9.160" id="7ee766a3-84b4-454c-ae39-4461e6b8e461" keyPath="$PROJECT_DIR$/../../../SSH_KEYS/[XP]/application_1588491535246_0883" port="10281" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

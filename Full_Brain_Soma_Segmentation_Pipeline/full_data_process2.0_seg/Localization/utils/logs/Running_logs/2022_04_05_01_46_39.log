@@ -1,0 +1,19 @@
+[2022-04-05 01:46:42,949] [INFO]: 
+##############
+batch:                   1
+gpu_nums:                1
+epochs:                  500
+lr:                      0.0005
+lr_patience:             50
+network:                 UNet3D()
+loss_type:               BCE_loss
+data_dir:                /braindat/lab/liuxy/soma_seg/Block_level_experiments/block_seg_v8_1000
+logs_dir:                ./logs
+ckps_dir:                ./ckps
+resample:                (0.5, 1, 1)
+weight_rate:             [1, 5]
+resume:                  False
+resume_path:             None
+tolerate_shape:          (62, 459, 459)
+ckp_file:                ./ckps/checkpoint-epoch499.pth
+##############
