@@ -16,7 +16,7 @@ docker pull registry.cn-hangzhou.aliyuncs.com/renwu527/auto-emseg:v3.1
 cd ./Full_Brain_Soma_Segmentation_Pipeline/full_data_process2.0_seg
 python script/submit_task.py 
 ```
-### 2. Intra-block Segmentation
+### 2. Inter-block Stitching
 ```shell
 cd ./Full_Brain_Soma_Segmentation_Pipeline/full_data_process2.0_stitch
 python script/submit_task.py 
