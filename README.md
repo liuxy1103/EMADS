@@ -5,7 +5,7 @@ This is the code of our article being reviewed.
 
 ## Enviromenent
 
-This code was tested with Pytorch 1.0.1 (later versions may work), CUDA 9.0, Python 3.7.4 and Ubuntu 16.04. It is worth mentioning that, besides some commonly used image processing packages, you also need to install some special post-processing packages for neuron segmentation, such as [waterz](https://github.com/funkey/waterz) and [elf](https://github.com/constantinpape/elf).
+This code was tested with Pytorch 1.0.1 (later versions may work), CUDA 9.0, Python 3.7.4 and Ubuntu 16.04. .
 
 If you have a [Docker](https://www.docker.com/) environment, we strongly recommend you to pull our image as follows,
 
