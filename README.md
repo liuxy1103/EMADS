@@ -48,8 +48,8 @@ We provide an example of their corresponding segmentation result predicted by ou
 https://drive.google.com/drive/folders/1V1wtjCtubjfj7WV7hKSPNOKx9XNdRnh6?usp=sharing
 
 ### patch-level example
-![image](https://user-images.githubusercontent.com/54794058/170444994-4b633c8b-4f7c-4ebe-a5e2-a25bb0cbb0ae.png)
-![image](https://user-images.githubusercontent.com/54794058/170445007-5e382c10-a1ec-442c-a91d-9744d308718c.png)
+![image](https://user-images.githubusercontent.com/54794058/170446059-bc066c03-ca73-445c-9666-d2317525bf48.png)
+![image](https://user-images.githubusercontent.com/54794058/170446071-d11ad320-48d3-41aa-b230-d2d75f88678c.png)
 
 ### block-level example
 ![image](https://user-images.githubusercontent.com/54794058/170445354-c628f1b2-9456-4a3d-90f0-6edd05c85566.png)
