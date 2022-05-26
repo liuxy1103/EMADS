@@ -46,6 +46,8 @@ python inference.py
 ## Examples
 We provide an example their corresponding segmentation result predicted by our trained model in the following Google Driver:
 https://drive.google.com/drive/folders/1V1wtjCtubjfj7WV7hKSPNOKx9XNdRnh6?usp=sharing
+![image](https://user-images.githubusercontent.com/54794058/170444994-4b633c8b-4f7c-4ebe-a5e2-a25bb0cbb0ae.png)
+![image](https://user-images.githubusercontent.com/54794058/170445007-5e382c10-a1ec-442c-a91d-9744d308718c.png)
 
 The full annotated dataset will be updated soon!
 
