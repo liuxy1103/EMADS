@@ -25,7 +25,7 @@ cd ./Full_Brain_Soma_Segmentation_Pipeline/full_data_process2.0_stitch
 python script/submit_task.py 
 ```
 
-## Train Localization Network
+<!-- ## Train Localization Network
 ```shell
 cd Localization
 python train.py 
@@ -35,7 +35,7 @@ python train.py
 ```shell
 cd Segmentation
 python train.py 
-```
+``` -->
 
 ## Inference on a 3D block
 We provide our trained models, including the localization network and the segmentation network in the fold './trained_model'.
