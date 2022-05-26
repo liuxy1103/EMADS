@@ -57,6 +57,6 @@ https://drive.google.com/drive/folders/13DkerjQuPYudh-G_doKpOKCiq1C6cRiC?usp=sha
 
 
 ## Dataset
-The annotated dataset EMADS will be released soon !
+The annotated dataset EMADS will be organized and released soon !
 
 
