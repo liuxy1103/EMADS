@@ -45,5 +45,5 @@ python inference.py
 ```
 ## Examples
 We provide the examples of our dataset and their corresponding segmentation result predicted by our trained model in Google Driver.
-
+https://drive.google.com/drive/folders/1V1wtjCtubjfj7WV7hKSPNOKx9XNdRnh6?usp=sharing
 
