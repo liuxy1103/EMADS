@@ -44,6 +44,6 @@ If you want to test the model on a small block, you can implement the following 
 python inference.py
 ```
 ## Examples
-We give a block data and a patch data and their corresponding segmentation result predicted by our trained model in Google Driver
+We provide the examples of our dataset and their corresponding segmentation result predicted by our trained model in Google Driver.
 
 
