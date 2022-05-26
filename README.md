@@ -44,6 +44,6 @@ If you want to test the model on a small block, you can implement the following 
 python inference.py
 ```
 ## Examples
-We give a block data and a patch data and their corresponding segmentation result predicted our trained model in the fold './examples'
+We give a block data and a patch data and their corresponding segmentation result predicted by our trained model in the fold './examples'
 
 
