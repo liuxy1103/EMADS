@@ -50,8 +50,8 @@ https://drive.google.com/drive/folders/1V1wtjCtubjfj7WV7hKSPNOKx9XNdRnh6?usp=sha
 ![image](https://user-images.githubusercontent.com/54794058/170444994-4b633c8b-4f7c-4ebe-a5e2-a25bb0cbb0ae.png)
 ![image](https://user-images.githubusercontent.com/54794058/170445007-5e382c10-a1ec-442c-a91d-9744d308718c.png)
 ### block-level example
-![image](https://user-images.githubusercontent.com/54794058/170445291-10ccd351-9c20-4286-9b19-4d4085fa81bf.png)
-![image](https://user-images.githubusercontent.com/54794058/170445303-fce8f98e-c30e-4c5e-b168-e6e96a884cb3.png)
+![image](https://user-images.githubusercontent.com/54794058/170445354-c628f1b2-9456-4a3d-90f0-6edd05c85566.png)
+![image](https://user-images.githubusercontent.com/54794058/170445365-1d9e08a3-5d0c-40e0-92f6-25488dccaf37.png)
 
 The full annotated dataset will be updated soon!
 
