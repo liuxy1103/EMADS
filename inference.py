@@ -37,7 +37,7 @@ def save_nii(img,path):
 
 
 if __name__ == "__main__":
-    root_path_positive = ' '
+    root_path_positive = './examples'
 
     f_all = open('./scores.txt', 'w')
     thres = 0.97
@@ -88,18 +88,15 @@ if __name__ == "__main__":
         time_total_list.append(time_total)
         save_nii(instance_output,os.path.join(out_path,block_name+'_instance_output.nii.gz'))
         #evaluate
-        mAP,mAP50,mAP75 = eval_mito(gt_seg, instance_output,'')
+        mAP,mAP50,_ = eval_mito(gt_seg, instance_output,'')
         # mAP = 0.0
         mAP_list.append(mAP)
         mAP50_list.append(mAP50)
-        mAP75_list.append(mAP75)
         dice3d, jac3d = dice_coeff(instance_output, gt_seg)
         dice3d_list.append(dice3d)
         jac3d_list.append(jac3d)
         f_txt = open(os.path.join(out_path, block_name+'_scores.txt'), 'w')
         f_txt.write('mAP50:%.6f' %mAP50)
-        f_txt.write('\n')
-        f_txt.write('mAP75:%.6f' %mAP75)
         f_txt.write('\n')
         f_txt.write('time_anchor:%.6f' %time_anchor)
         f_txt.write('\n')
@@ -116,12 +113,11 @@ if __name__ == "__main__":
     print('time_total_list:',time_total_list)
     print('mAP_list:',mAP_list)
     print('mAP50_list:',mAP50_list)
-    print('mAP75_list:',mAP75_list)
     print('dice3d:',dice3d_list)
     print('jac3d:',jac3d_list)
     f_all = open('./scores.txt', 'a')
-    f_all.write('dice3d-1=%.6f,jac3d-1=%.6f,mAP-1=%.6f,mAP50-1=%.6f,mAP75-1=%.6f, dice3d-2=%.6f,jac3d-2=%.6f,mAP-2=%.6f,mAP50-2=%.6f,mAP75-2=%.6f' % \
-        (dice3d_list[0],jac3d_list[0],mAP_list[0],mAP50_list[0],mAP75_list[0],dice3d_list[1],jac3d_list[1],mAP_list[1],mAP50_list[1],mAP75_list[1]))
+    f_all.write('dice3d-1=%.6f,jac3d-1=%.6f,mAP-1=%.6f,mAP50-1=%.6f,dice3d-2=%.6f,jac3d-2=%.6f,mAP-2=%.6f,mAP50-2=%.6f' % \
+        (dice3d_list[0],jac3d_list[0],mAP_list[0],mAP50_list[0],dice3d_list[1],jac3d_list[1],mAP_list[1],mAP50_list[1]))
     f_all = open('./scores.txt', 'a')
     f_all.write('\n')
     f_all.close()
