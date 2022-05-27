@@ -5,7 +5,7 @@ This is the code of our article being reviewed.
 
 ## Enviromenent
 
-This code was tested with Pytorch 1.0.1 (later versions may work), CUDA 9.0, Python 3.7.4 and Ubuntu 16.04. .
+This code was tested with Pytorch 1.0.1 (later versions may work), CUDA 9.0, Python 3.7.4 and Ubuntu 16.04. 
 
 If you have a [Docker](https://www.docker.com/) environment, we strongly recommend you to pull our image as follows
 
@@ -57,6 +57,6 @@ https://drive.google.com/drive/folders/13DkerjQuPYudh-G_doKpOKCiq1C6cRiC?usp=sha
 
 
 ## Dataset
-The annotated dataset EMADS will be released soon !
+The annotated dataset EMADS will be organized and released soon !
 
 
