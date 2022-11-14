@@ -1,4 +1,4 @@
-# Accurate-and-Efficient-Soma-Reconstruction-in-a-Full-Adult-Fruit-Fly-Brain
+# A Soma Segmentation Benchmark in Full Adult Fly Brain
 ## Introduction
 This is the code of our article being reviewed.
 
