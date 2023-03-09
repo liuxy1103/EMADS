@@ -1,6 +1,5 @@
 # FUNCTION: Adjust the value of every sub-blocks
-# Written by Wei Huang(weih527@mail.ustc.edu.cn)
-# 2019/07/02
+
 
 from __future__ import absolute_import
 from __future__ import print_function
