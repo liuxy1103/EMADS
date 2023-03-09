@@ -75,3 +75,7 @@ We provide an example of their corresponding segmentation result predicted by ou
 ## Dataset
 The annotated dataset EMADS is released and can be downloaded at 
 [[Dataset](https://drive.google.com/drive/folders/1WLVaU3sGd8RQfwsBIBomZyNwl4m2D8pc?usp=share_link)]
+
+## Contact
+
+If you have any problem with the released code, please contact me by email (liuxyu@mail.ustc.edu.cn).
