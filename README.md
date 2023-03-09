@@ -57,5 +57,5 @@ https://drive.google.com/drive/folders/13DkerjQuPYudh-G_doKpOKCiq1C6cRiC?usp=sha
 
 
 ## Dataset
-The annotated dataset EMADS is released at https://drive.google.com/drive/folders/1WLVaU3sGd8RQfwsBIBomZyNwl4m2D8pc?usp=share_link
+The annotated dataset EMADS is released and can be downloaded at https://drive.google.com/drive/folders/1WLVaU3sGd8RQfwsBIBomZyNwl4m2D8pc?usp=share_link
 
