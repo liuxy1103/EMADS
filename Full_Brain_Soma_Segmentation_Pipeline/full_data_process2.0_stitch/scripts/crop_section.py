@@ -1,7 +1,6 @@
 # FUNCTION: Crop raw data in single section with downsampling 4 times for 84X2048X2048 sub-blocks 
 # with overlap 100 pixel in x,y direction and 30 pixel in z direction
-# Written by Wei Huang(weih527@mail.ustc.edu.cn)
-# 2019/08/02
+
 
 from __future__ import absolute_import
 from __future__ import print_function
