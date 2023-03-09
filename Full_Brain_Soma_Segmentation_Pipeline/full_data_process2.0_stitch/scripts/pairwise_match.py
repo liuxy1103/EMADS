@@ -1,6 +1,4 @@
 # FUNCTION: Pairwise match for multi machine
-# Written by Wei Huang(weih527@mail.ustc.edu.cn)
-# 2019/06/19
 
 from __future__ import absolute_import
 from __future__ import print_function
