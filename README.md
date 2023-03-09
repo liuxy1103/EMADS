@@ -51,7 +51,8 @@ python train.py
 
 ## Inference on a 3D block
 **We provide our trained models, including the localization network and the segmentation network in the fold './trained_model':**
-***localization_model.pth*** and ***segmentation_model.pth***. 
+**localization_model.pth**
+**segmentation_model.pth** 
 
 
 
