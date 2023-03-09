@@ -56,7 +56,7 @@ python train.py
 
 
 
-If you want to test the model on a small block, you can implement the following command
+If you want to test the model on a block, you can implement the following command
 ```shell
 python inference.py
 ```
