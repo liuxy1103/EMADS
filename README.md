@@ -56,8 +56,9 @@ If you want to test the model on a small block, you can implement the following 
 python inference.py
 ```
 ## Examples
-We provide an example of their corresponding segmentation result predicted by our trained model in the following Google Driver:
-https://drive.google.com/drive/folders/13DkerjQuPYudh-G_doKpOKCiq1C6cRiC?usp=sharing
+We provide an example of their corresponding segmentation result predicted by our trained model in [[Examples](https://drive.google.com/drive/folders/13DkerjQuPYudh-G_doKpOKCiq1C6cRiC?usp=sharing)]
+
+
 
 ### patch-level example
 ![image](https://user-images.githubusercontent.com/54794058/170446111-ea728ea2-269b-43bf-bf2c-bfdca0feafb2.png)
