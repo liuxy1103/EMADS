@@ -66,7 +66,7 @@ python train.py
 ![image](https://user-images.githubusercontent.com/54794058/224546913-34a85a35-9fa0-42f5-a2bb-29c53055fa6c.png)
 
 
-##Soma statistics of the full brain
+## Soma statistics of the full brain
 ![image](https://user-images.githubusercontent.com/54794058/224547231-9589eb5e-8eb3-4f42-a2d3-251e2172ea10.png)
 
 
