@@ -62,8 +62,14 @@ cd Segmentation
 python train.py 
 ``` -->
 
+## Visusalization for Full Brain Segmentation
+[visual_3level-crop.pdf](https://github.com/liuxy1103/EMADS/files/10950871/visual_3level-crop.pdf)
+
+
 ## Inference on a 3D block
 We provide our trained models, including the localization network and the segmentation network in the fold './trained_model':
+
+
 
 
 
