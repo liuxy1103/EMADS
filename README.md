@@ -62,8 +62,8 @@ cd Segmentation
 python train.py 
 ``` -->
 
-## Visusalization for Full Brain Segmentation
-[visual_3level-crop.pdf](https://github.com/liuxy1103/EMADS/files/10950871/visual_3level-crop.pdf)
+## Visualization of our soma reconstruction 
+![image](https://user-images.githubusercontent.com/54794058/224546913-34a85a35-9fa0-42f5-a2bb-29c53055fa6c.png)
 
 
 ## Inference on a 3D block
