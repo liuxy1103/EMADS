@@ -26,15 +26,32 @@ docker pull registry.cn-hangzhou.aliyuncs.com/renwu527/auto-emseg:v3.1
 ```
 
 ## Implement the full brain data processing pipeline
-### 1. Intra-block Segmentation
+### 1. Full Brain Data Division
 ```shell
 cd ./Full_Brain_Soma_Segmentation_Pipeline/full_data_process2.0_seg
+python script/submit_task.py -tn=divide_block
+```
+### 2. Intra-block Segmentation
+```shell
+python script/submit_task.py 
+```
+### 2. Intra-block Segmentation
+```shell
 python script/submit_task.py 
 ```
 ### 2. Inter-block Stitching
 ```shell
 cd ./Full_Brain_Soma_Segmentation_Pipeline/full_data_process2.0_stitch
-python script/submit_task.py 
+python script/submit_task.py -tn=sort_ids
+python scripts/submit_task.py -tn=stitching -sd=x0
+python scripts/submit_task.py -tn=stitching -sd=x1
+python scripts/submit_task.py -tn=stitching -sd=y0
+python scripts/submit_task.py -tn=stitching -sd=y1
+python scripts/submit_task.py -tn=stitching -sd=z0
+python scripts/submit_task.py -tn=stitching -sd=z1
+python scripts/submit_task.py -tn=concat
+python scripts/submit_task.py -tn=global
+python scripts/submit_task.py -tn=remap
 ```
 
 <!-- ## Train Localization Network
