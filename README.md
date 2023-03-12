@@ -62,14 +62,6 @@ cd Segmentation
 python train.py 
 ``` -->
 
-## Visualization of our soma reconstruction 
-![image](https://user-images.githubusercontent.com/54794058/224546913-34a85a35-9fa0-42f5-a2bb-29c53055fa6c.png)
-
-
-## Soma statistics of the full brain
-![image](https://user-images.githubusercontent.com/54794058/224547231-9589eb5e-8eb3-4f42-a2d3-251e2172ea10.png)
-
-
 ## Inference on a 3D block
 We provide our trained models, including the localization network and the segmentation network in the fold './trained_model':
 
@@ -90,6 +82,17 @@ We provide an example of their corresponding segmentation result predicted by ou
 ### block-level example
 ![image](https://user-images.githubusercontent.com/54794058/170445354-c628f1b2-9456-4a3d-90f0-6edd05c85566.png)
 ![image](https://user-images.githubusercontent.com/54794058/170445365-1d9e08a3-5d0c-40e0-92f6-25488dccaf37.png)
+
+
+## Visualization of our soma reconstruction 
+![image](https://user-images.githubusercontent.com/54794058/224546913-34a85a35-9fa0-42f5-a2bb-29c53055fa6c.png)
+
+
+## Soma statistics of the full brain
+![image](https://user-images.githubusercontent.com/54794058/224547231-9589eb5e-8eb3-4f42-a2d3-251e2172ea10.png)
+
+
+
 
 
 ## Dataset
