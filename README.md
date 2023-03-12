@@ -35,11 +35,7 @@ python script/submit_task.py -tn=divide_block
 ```shell
 python script/submit_task.py 
 ```
-### 2. Intra-block Segmentation
-```shell
-python script/submit_task.py 
-```
-### 2. Inter-block Stitching
+### 3. Inter-block Stitching
 ```shell
 cd ./Full_Brain_Soma_Segmentation_Pipeline/full_data_process2.0_stitch
 python script/submit_task.py -tn=sort_ids
