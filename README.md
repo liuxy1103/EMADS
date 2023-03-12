@@ -66,11 +66,12 @@ python train.py
 ![image](https://user-images.githubusercontent.com/54794058/224546913-34a85a35-9fa0-42f5-a2bb-29c53055fa6c.png)
 
 
+##Soma statistics of the full brain
+![image](https://user-images.githubusercontent.com/54794058/224547231-9589eb5e-8eb3-4f42-a2d3-251e2172ea10.png)
+
+
 ## Inference on a 3D block
 We provide our trained models, including the localization network and the segmentation network in the fold './trained_model':
-
-
-
 
 
 If you want to test the model on a block, you can implement the following command
@@ -94,6 +95,9 @@ We provide an example of their corresponding segmentation result predicted by ou
 ## Dataset
 The annotated dataset EMADS is released and can be downloaded at 
 [[Dataset](https://drive.google.com/drive/folders/1WLVaU3sGd8RQfwsBIBomZyNwl4m2D8pc?usp=share_link)]
+### Overview of data annotation
+![image](https://user-images.githubusercontent.com/54794058/224547202-630aa6ba-0d19-435f-8e2f-93546b30d7e2.png)
+
 
 ## Contact
 
