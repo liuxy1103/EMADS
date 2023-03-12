@@ -74,7 +74,7 @@ python train.py
 We provide our trained models, including the localization network and the segmentation network in the fold './trained_model':
 
 
-If you want to test the model on a block, you can implement the following command
+If you want to test the model on a block, you can implement the following command:
 ```shell
 python inference.py
 ```
