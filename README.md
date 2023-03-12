@@ -99,7 +99,7 @@ We provide an example of their corresponding segmentation result predicted by ou
 The annotated dataset EMADS is released and can be downloaded at 
 [[Dataset](https://drive.google.com/drive/folders/1WLVaU3sGd8RQfwsBIBomZyNwl4m2D8pc?usp=share_link)]
 ### Overview of data annotation
-![image](https://user-images.githubusercontent.com/54794058/224547202-630aa6ba-0d19-435f-8e2f-93546b30d7e2.png)
+![image](https://user-images.githubusercontent.com/54794058/224547553-d158ab49-b610-45ea-84cf-47f743ea73f3.png)
 
 
 ## Contact
