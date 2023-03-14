@@ -80,8 +80,12 @@ We have released our trained models, including the localization network and the 
 
 If you want to test the model on a block, you can implement the following command:
 ```shell
-python inference.py
+python inference_unet.py
 ```
+```shell
+python inference_swin.py
+```
+
 ## Examples
 We provide an example of their corresponding segmentation result predicted by our trained model in [[Examples](https://drive.google.com/drive/folders/13DkerjQuPYudh-G_doKpOKCiq1C6cRiC?usp=sharing)]
 
