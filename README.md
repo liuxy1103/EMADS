@@ -63,7 +63,7 @@ python train.py
 ``` -->
 
 ## Inference on a 3D block
-We have released our trained models, including the localization network and the segmentation network in the fold './trained_model':
+We have released our trained models, including the localization network and the segmentation network. You can download these model at [[Models](https://drive.google.com/drive/folders/1KpbS3s4-B45O27FI96Um3nW9LlAusj_k)]
 
 
 If you want to test the model on a block, you can implement the following command:
