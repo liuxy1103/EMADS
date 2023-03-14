@@ -62,6 +62,17 @@ cd Segmentation
 python train.py 
 ``` -->
 
+
+## Model Zoo
+
+We provide the trained models at GoogleDrive, including the pre-trained localization model and two segmentation models with backnones (3D UNet and Swin UNETR).
+
+| Models                         | Download                                                     |
+| ------------------------------ | ------------------------------------------------------------ |
+| localization_model.pth       | [GoogleDrive](https://drive.google.com/file/d/1XSVfA57OpyQj3dyf86SDsSHcP95yb3Su/view?usp=share_link) |
+| segmentation_model_swin.pth   | [GoogleDrive](https://drive.google.com/file/d/1btNj6MzNyfTvu5tnGzuQnGNMP_oqgsPD/view?usp=share_link) |
+| segmentation_model.pth   | [GoogleDrive](https://drive.google.com/file/d/167Ej6FbzY38MI5DzBf6ITFfQA0XsVZIf/view?usp=share_link) |
+
 ## Inference on a 3D block
 We have released our trained models, including the localization network and the segmentation network. You can download these model at [[Models](https://drive.google.com/drive/folders/1KpbS3s4-B45O27FI96Um3nW9LlAusj_k)]
 
