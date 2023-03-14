@@ -100,6 +100,14 @@ We provide an example of their corresponding segmentation result predicted by ou
 ![image](https://user-images.githubusercontent.com/54794058/170445365-1d9e08a3-5d0c-40e0-92f6-25488dccaf37.png)
 
 
+
+## Dataset
+The annotated dataset EMADS is released and can be downloaded at 
+[[Dataset](https://drive.google.com/drive/folders/1WLVaU3sGd8RQfwsBIBomZyNwl4m2D8pc?usp=share_link)]
+### Overview of data annotation
+![image](https://user-images.githubusercontent.com/54794058/224547553-d158ab49-b610-45ea-84cf-47f743ea73f3.png)
+
+
 ## Visualization of our soma reconstruction 
 ![image](https://user-images.githubusercontent.com/54794058/224546913-34a85a35-9fa0-42f5-a2bb-29c53055fa6c.png)
 
@@ -111,13 +119,8 @@ We provide an example of their corresponding segmentation result predicted by ou
 
 
 
-## Dataset
-The annotated dataset EMADS is released and can be downloaded at 
-[[Dataset](https://drive.google.com/drive/folders/1WLVaU3sGd8RQfwsBIBomZyNwl4m2D8pc?usp=share_link)]
-### Overview of data annotation
-![image](https://user-images.githubusercontent.com/54794058/224547553-d158ab49-b610-45ea-84cf-47f743ea73f3.png)
 
 
 ## Contact
 
-If you have any problem with the released code, please contact me by email (liuxyu@mail.ustc.edu.cn).
+If you have any problem with the released code and dataset, please contact me by email (liuxyu@mail.ustc.edu.cn).
