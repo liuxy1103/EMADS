@@ -78,7 +78,7 @@ We provide the trained models at GoogleDrive, including the pre-trained localiza
 We have released our trained models, including the localization network and the segmentation network. You can download these model at [[Models](https://drive.google.com/drive/folders/1KpbS3s4-B45O27FI96Um3nW9LlAusj_k)]
  -->
 
-If you want to test the model on a block, you can implement the following command:
+If you want to test the model on a block, you can implement the following two commands for 3D UNet and Swin UNETR model, respectively :
 ```shell
 python inference_unet.py
 ```
