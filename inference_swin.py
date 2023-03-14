@@ -20,7 +20,7 @@ from skimage.metrics import adapted_rand_error as adapted_rand_ref
 from skimage.metrics import variation_of_information as voi_ref
 
 
-model_state_file = "checkpoint-epoch162.pth"
+model_state_file = "/trained_model/segmentation_model_swin.pth"
 config_path = "./mysetting.yaml"
 ckps = 'seed_model_v4.7.pth'
 
