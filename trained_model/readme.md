@@ -1,1 +1,1 @@
-The trained model is uploaded at GoogleDriver
+The trained models have been uploaded on GoogleDriver
