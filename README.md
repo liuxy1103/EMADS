@@ -109,6 +109,9 @@ The annotated dataset EMADS is released and can be downloaded at
 
 
 ## Visualization of our soma reconstruction 
+We also make a 4K video based on the image sequence of the full brain. We set the time duration of each image as 0.01 second, and stack the image sequence into a video chronological. The 4K video is released and can be downloaded at 
+[[Video](https://drive.google.com/drive/folders/1KT3f2gVVcGtXjklA-E7G31kkfS4rZKM3)]
+
 ![image](https://user-images.githubusercontent.com/54794058/224546913-34a85a35-9fa0-42f5-a2bb-29c53055fa6c.png)
 
 
