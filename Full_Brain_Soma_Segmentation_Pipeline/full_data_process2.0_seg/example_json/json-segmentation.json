@@ -7,10 +7,10 @@
         {
             "name": "josn",
             "taskNumber": 1,
-            "cpuNumber": 4,
-            "memoryMB": 32000,
+            "cpuNumber": 8,
+            "memoryMB": 64000,
             "shmMB": 10240,
-            "gpuNumber": 1,
+            "gpuNumber": 2,
             "minFailedTaskCount": null,
             "minSucceededTaskCount": null,
             "command": "sleep 4d"
