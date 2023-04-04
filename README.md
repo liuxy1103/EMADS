@@ -33,7 +33,7 @@ python script/submit_task.py -tn=divide_block
 ```
 ### 2. Intra-block Segmentation
 ```shell
-python script/submit_task.py 
+python script/submit_task.py -tn=segmentation
 ```
 ### 3. Inter-block Stitching
 ```shell
