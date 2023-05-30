@@ -1,7 +1,7 @@
 # A Soma Segmentation Benchmark in Full Adult Fly Brain
 **Accepted by CVPR-2023**
 
-**Xiaoyu Liu**, Bo Hu, Mingxing Li, Wei Huang, Yueyi Zhang, and Zhiwei Xiong*
+Xiaoyu Liu, Bo Hu, Mingxing Li, Wei Huang, Yueyi Zhang, and Zhiwei Xiong*
 
 University of Science and Technology of China (USTC), Hefei, China
 
