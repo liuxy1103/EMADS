@@ -120,10 +120,17 @@ We also make a 4K video based on the image sequence of the full brain. We set th
 
 
 
-
-
-
-
 ## Contact
 
 If you have any problem with the released code and dataset, please contact me by email (liuxyu@mail.ustc.edu.cn).
+
+## Citation
+```shell
+@inproceedings{liu2023soma,
+  title={A Soma Segmentation Benchmark in Full Adult Fly Brain},
+  author={Liu, Xiaoyu and Hu, Bo and Li, Mingxing and Huang, Wei and Zhang, Yueyi and Xiong, Zhiwei},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7402--7411},
+  year={2023}
+}
+```
